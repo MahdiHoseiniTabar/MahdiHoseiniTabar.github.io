@@ -1,7 +1,6 @@
 <template>
   <div>
     <Nuxt />
-    <span> gh-pages </span>
   </div>
 </template>
 
