@@ -1,6 +1,8 @@
 <template>
   <div>
+    <h1>mahdi hosseini tabar</h1>
     <Nuxt />
+  
   </div>
 </template>
 
