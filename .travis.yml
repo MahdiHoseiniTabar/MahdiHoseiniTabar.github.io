@@ -13,7 +13,6 @@ branches:
 install:
   - yarn
   - yarn generate
-  - travis_wait 30 mvn install yarn start
 
 script:
   - echo "Skipping tests"
